@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">consumerApp</string>
+    <string name="title">Submission 3</string>
+    <string name="url">URL</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="username">Username</string>
+    <string name="content_follower">Followers</string>
+    <string name="content_following">Following</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="listFavorite">Favorite List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="noData">No Data inserted.</string>
+    <string name="settings_settings">Settings</string>
+    <string name="settings_reminder">Pengingat Harian</string>
+    <string name="alarm_settings">Alarm has been set up.</string>
+    <string name="turn_on_alarm">Turn on Alarm</string>
+</resources>
